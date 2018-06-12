@@ -36,7 +36,7 @@ description: 手机YY Android Lint 静态代码扫描实践
 
 ![ability to suppress issues](.gitbook/assets/1528376539374.jpg)
 
-> 对于手Y的自定义规则，如果你发现任何问题，请一定要告知我们。
-
-
+{% hint style="info" %}
+对于手Y的自定义规则，如果你发现任何问题，请一定要告知我们。
+{% endhint %}
 
